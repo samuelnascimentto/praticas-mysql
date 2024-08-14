@@ -16,7 +16,7 @@ primary key (idMusica)
 -- pelo menos umas 3 músicas
 
 insert into musica (titulo, artista, genero) values 
-('sina', 'djavan', 'MPB'),
+('Azul', 'djavan', 'MPB'),
 ('capim', 'djavan', 'MPB'),
 ('caneta azul', 'manuel.g', 'Forró'),
 ('maura', 'manuel.g', 'Forro'),

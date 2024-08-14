@@ -2,7 +2,7 @@
 -- No MySQL Workbench, utilizando o banco de dados ‘sprint1’:
 create database sprint1;
 
-use sprint1;
+use sprint1; 
 
 -- Criar a tabela chamada Atleta para conter os dados: idAtleta (int e chave primária da 
 -- tabela), nome (varchar, tamanho 40), modalidade (varchar, tamanho 40), qtdMedalha 
@@ -19,7 +19,7 @@ insert into atleta(idAtleta, nome, modalidade, qtdMedalha)
 values (1, 'GIOVANNA', 'volei', 1); 
 
 insert into atleta(idAtleta, nome, modalidade, qtdMedalha) 
-values (2, 'ISABELA', 'Volei', 1); 
+values (2, 'ISABELA', 'Voleii', 1); 
 
 insert into atleta(idAtleta, nome, modalidade, qtdMedalha) 
 values (3, 'GUILHERME', 'Natação', 2),

@@ -19,7 +19,7 @@ insert into atleta(nome, modalidade, qtdMedal)
 values
 ('GUILHERME', 'Natação', 2),
 ('PAULO', 'Basquete', 1),
-('LUCAS', 'Basquete', 3),
+('Carlos', 'Basquete', 3),
 ('GUSTAVO', 'Basquete', 0),
 ('BIANCA', 'Volei de Praia', 1),
 ('ANA', 'Volei de Praia', 1),

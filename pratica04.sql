@@ -15,7 +15,7 @@ primary key (idProfessor)
 insert into professor(nome, sobrenome, especialidade1, especialidade2) values
 ('marcos', 'rosim', 'banco de dados', 'Pesquisa'),
 ('claudio', 'frizza', 'Pesquisa', 't.i'),
-('fernando', 'brandao', 't.i', 'algoritmos'),
+('Alesssasndra', 'brandao', 't.i', 'algoritmos'),
 ('augusto', 'caio', 'algoritmos', 'socio emocional'),
 ('maria', 'vera', 'socio emocional', 'Pesquisa'),
 ('marise', 'augusta', 'arq. comp', 'socio emocional'),
